@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall 2025/Classes.md",
+                "file": "Spring 2026/Classes.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall 2025/Classes.md",
+                "file": "Spring 2026/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall 2025/Classes.md",
+                "file": "Spring 2026/Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall 2025/Classes.md",
+                "file": "Spring 2026/Classes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,8 +185,9 @@
   },
   "active": "0346a7f26327bb07",
   "lastOpenFiles": [
-    "Spring 2026/Untitled.md",
+    "LIN2011.md",
     "Fall 2025/Classes.md",
+    "Spring 2026/Classes.md",
     "Programming Books.md",
     "Spring 2026",
     "Fall 2025",

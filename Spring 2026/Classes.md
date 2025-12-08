@@ -1,0 +1,4 @@
+- MAC2312 - Analytic Geometry and Calculus 2
+- PHY2048 - Physics with Calculus 1
+- COP3502C - Programming Fundamentals 1
+- IDS2935 - Special Topics: Musical Elements of Motion (Quest 1)
