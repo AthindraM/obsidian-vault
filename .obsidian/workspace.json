@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAC2312.md",
+                "file": "2025 Winter Break Appointments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAC2312"
+              "title": "2025 Winter Break Appointments"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAC2312.md",
+                "file": "2025 Winter Break Appointments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MAC2312"
+              "title": "Backlinks for 2025 Winter Break Appointments"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAC2312.md",
+                "file": "2025 Winter Break Appointments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MAC2312"
+              "title": "Outgoing links from 2025 Winter Break Appointments"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAC2312.md",
+                "file": "2025 Winter Break Appointments.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MAC2312"
+              "title": "Outline of 2025 Winter Break Appointments"
             }
           }
         ]
@@ -186,7 +186,7 @@
   "active": "0346a7f26327bb07",
   "lastOpenFiles": [
     "ASCII Art.md",
-    "2025 Winter Break Appointments.md",
-    "MAC2312.md"
+    "MAC2312.md",
+    "2025 Winter Break Appointments.md"
   ]
 }
