@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025 Winter Break Appointments.md",
+                "file": "Fall 2025/Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025 Winter Break Appointments"
+              "title": "Classes"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025 Winter Break Appointments.md",
+                "file": "Fall 2025/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025 Winter Break Appointments"
+              "title": "Backlinks for Classes"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025 Winter Break Appointments.md",
+                "file": "Fall 2025/Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025 Winter Break Appointments"
+              "title": "Outgoing links from Classes"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025 Winter Break Appointments.md",
+                "file": "Fall 2025/Classes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025 Winter Break Appointments"
+              "title": "Outline of Classes"
             }
           }
         ]
@@ -185,8 +185,14 @@
   },
   "active": "0346a7f26327bb07",
   "lastOpenFiles": [
+    "Spring 2026/Untitled.md",
+    "Fall 2025/Classes.md",
+    "Programming Books.md",
+    "Spring 2026",
+    "Fall 2025",
     "ASCII Art.md",
-    "MAC2312.md",
-    "2025 Winter Break Appointments.md"
+    "Neovim Configuration.md",
+    "2025 Winter Break Appointments.md",
+    "MAC2312.md"
   ]
 }

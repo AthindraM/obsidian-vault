@@ -1,0 +1,5 @@
+- ~~PHY2048/L~~ (dropped but still taking lab)
+- ~~MAC2312~~ (dropped)
+- COP2273
+- LIN2011
+- THE2000
