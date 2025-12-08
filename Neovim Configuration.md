@@ -1,0 +1,20 @@
+- [x] number line + relative number
+- [x] tabs
+	- [x] 2 spaces
+- [x] keymaps
+	- [x] leader to ' '
+	- [x] 'jk' exits insert mode
+- [x] theme
+	- [x] onedark
+- [x] package manager
+	- [x] lazy
+- [ ] plugins
+	- [x] autopairs
+	- [x] indent lines
+	- [x] lualine
+	- [x] telescope
+	- [x] nvim-tree
+	- [x] nvim greeter
+	- [x] which-key
+	- [ ] autocompletion
+	- [ ] treesitter
