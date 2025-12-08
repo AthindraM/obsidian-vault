@@ -1,3 +1,6 @@
 {
-  "accentColor": "#c84b4b"
+  "accentColor": "#c84b4b",
+  "textFontFamily": "FiraCode Nerd Font Mono",
+  "interfaceFontFamily": "FiraCode Nerd Font Mono",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono"
 }
