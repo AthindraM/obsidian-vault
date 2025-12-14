@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall 2025/LIN2011 Final Study Plan.md",
-                "mode": "source",
+                "file": "Spring 2026/Classes.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LIN2011 Final Study Plan"
+              "title": "Classes"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall 2025/LIN2011 Final Study Plan.md",
+                "file": "Spring 2026/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LIN2011 Final Study Plan"
+              "title": "Backlinks for Classes"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall 2025/LIN2011 Final Study Plan.md",
+                "file": "Spring 2026/Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from LIN2011 Final Study Plan"
+              "title": "Outgoing links from Classes"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall 2025/LIN2011 Final Study Plan.md",
+                "file": "Spring 2026/Classes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LIN2011 Final Study Plan"
+              "title": "Outline of Classes"
             }
           }
         ]
@@ -200,8 +200,8 @@
   },
   "active": "183ee7bcbcfbb667",
   "lastOpenFiles": [
-    "Fall 2025/Classes.md",
     "Fall 2025/LIN2011 Final Study Plan.md",
+    "Fall 2025/Classes.md",
     "Spring 2026/Classes.md",
     "LIN2011.md",
     "Programming Books.md",
