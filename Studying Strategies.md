@@ -1,0 +1,1 @@
+- when studying, put on a stopwatch and have it in clear view
