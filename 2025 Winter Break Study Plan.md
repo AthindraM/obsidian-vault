@@ -9,11 +9,11 @@
     - [ ] Graphical Integration in Motion Analysis
 ## Calculus 2
 - Chapter 6: Integrals 
-    - [ ] Areas between Curves
-    - [ ] Volumes
-    - [ ] Volumes by Cylindrical Shells
-    - [ ] Work
-    - [ ] Average Value of a Function
+    - [x] Areas between Curves
+    - [x] Volumes
+    - [x] Volumes by Cylindrical Shells
+    - [x] Work
+    - [x] Average Value of a Function
 # Week 2 (12/20 - 12/27)
 ## Physics 1
 - Chapter 3: Vectors
